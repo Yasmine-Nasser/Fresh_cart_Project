@@ -1,0 +1,12 @@
+.category
+{
+ height: 270px;
+ object-fit: cover;
+ width: 100%;
+ color: rgb(132, 204, 22);
+}
+
+.cart:hover{
+    box-shadow: 0px 2px 4px -1px, rgba(141, 213, 33, 0.9) 0px 4px 5px 0px, rgba(141, 213, 33, 0.9) 0px 1px 10px 0px ;
+    transition: 1s;
+}
